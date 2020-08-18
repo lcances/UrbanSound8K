@@ -1,0 +1,8 @@
+/dataset/
+dataset.lnk.idea
+dataset/
+ubs8k.egg-info/
+.ipynb_checkpoints/
+__pycache__/
+.idea/
+dataset
