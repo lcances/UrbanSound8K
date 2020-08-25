@@ -50,7 +50,7 @@ class Dataset(torch.utils.data.Dataset):
         meta = self.manager.meta
         self.y = meta.loc[meta.fold.isin(self.folds)]
 
-        # varialbe
+        # variable
         self.filenames = list(self.x.keys())
         self.s_idx = []
         self.u_idx = []
