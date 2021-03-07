@@ -1,9 +1,9 @@
 # UrbanSound8K
-Urbansound8k dataset management
+Urbansound8k dataset management for personal use. You can use as it is.
 
-For personal use. You can use as it is.
+dataset download: `https://urbansounddataset.weebly.com/urbansound8k.html`
+dataset paper: `http://www.justinsalamon.com/uploads/4/3/9/4/4394963/salamon_urbansound_acmmm14.pdf`
 
-dataset: `http://www.justinsalamon.com/uploads/4/3/9/4/4394963/salamon_urbansound_acmmm14.pdf`
 
 # Dependancies & local installation
 **Dependancies**
