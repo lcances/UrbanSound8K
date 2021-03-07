@@ -6,7 +6,7 @@ dataset paper: `http://www.justinsalamon.com/uploads/4/3/9/4/4394963/salamon_urb
 
 
 # Dependancies & local installation
-**Dependancies**
+**Manual installation**
 ```bash
 conda create -n ubs8k python=3 pip
 conda activate ubs8k
@@ -23,6 +23,14 @@ conda install -c conda-forge librosa
 conda install numba=0.48.0
 
 pip install --upgrade git+https://github.com/leocances/augmentation_utils.git
+```
+
+**Automatic installation**
+```bash
+conda create -n ubs8k python=3 pip
+conda activate ubs8k
+
+pip install -r requirements.txt
 ```
 
 **local installation**
